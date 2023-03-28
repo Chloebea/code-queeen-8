@@ -1,0 +1,55 @@
+.mother{
+    border: none;
+    width: 400px;
+    height: 550px;
+    margin: 50px 50px;
+    background-color:aliceblue;
+    
+    border-radius: 10px;
+}
+#sister{
+width: 400px;
+height: 530px;
+border-radius: 10px;
+}
+.cash{
+    width:  400px;
+    height:230px;
+    background-color: blue;
+    grid-template-columns: auto ;
+    border-radius: 10px;
+}
+ .chloe{
+background-color: white;
+border: 5px white solid;
+position: absolute;
+top: 50px;
+left: 40px;
+position: absolute;
+margin: 50px;
+border-radius: 50%;
+
+   }
+   .charles{
+    background-color: aliceblue;
+    border: 10px aliceblue;
+    width: 400px;
+    height: 330px;
+    border-radius: 10px;
+   
+   
+   }
+   #name{
+    margin: 80px;
+    justify-content: center;
+    align-items: center;
+
+   }
+#job{
+    margin: -40px;
+    text-align: center;
+}
+
+
+
+

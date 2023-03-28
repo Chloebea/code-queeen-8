@@ -1,0 +1,42 @@
+.motherbox{
+    border: 10px green solid;
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    background-color: aqua;
+
+}
+#bby{
+    border: 5px solid maroon;
+    height: 200px;
+    width:200px;
+    border-top:10px;
+    border-left:5px blue 
+    
+}
+.box1{
+    border-radius: 5px blue;
+    border: 3px red solid;
+    width: 600px;
+    height: 600px;
+    margin:50px 40px;
+     box-shadow:50px 50px rgb(70, 70, 119)
+}
+#box2{
+    width: 400px;
+    height: 400px;
+    margin: 80px ;
+    border: 20px rgb(26, 221, 146) solid;
+    background-color:rgb(206, 164, 112);
+    border-bottom-left-radius: 50px;
+    border-top-color: lightblue ;
+    box-shadow: 50px 50px palevioletred;
+}
+.box3{
+    background-color: black;
+    border: 5px yellow solid;
+    width: 200px;
+    height: 200px;
+    margin: 100px;
+    border-radius: 50% ;
+}
